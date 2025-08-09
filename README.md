@@ -32,6 +32,11 @@ pip install -r requirements.txt
 # Run
 .apk
 
+### Dependencis  
+pip install ultralytics
+pip install server
+
+
 ### Project Documentation
 For Software:
 
