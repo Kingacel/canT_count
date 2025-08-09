@@ -47,7 +47,8 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![https://github.com/Kingacel/premchand/blob/main/Screenshot_20250809_192747.jpg](main screen to insert image )
+https://github.com/Kingacel/premchand/blob/main/Screenshot_20250809_192747.jpg
+main screen to insert image )
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
