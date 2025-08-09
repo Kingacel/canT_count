@@ -14,13 +14,13 @@
 - Member 3: [Name] - [College]
 
 ### Project Description
-[]
+This is andriod  application to count the sum of coin using image 
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+A large no of coin can be hard to total this app use calculation 
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[How are you solving it? Keep it ]
 
 ## Technical Details
 ### Technologies/Components Used
