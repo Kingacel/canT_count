@@ -8,13 +8,10 @@
 ### Team Name: cronos
 
 
-### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+
 
 ### Project Description
-This is andriod  application to count the sum of coin using image 
+Can't count is andriod  application which help us user to count the sum of coin using image .
 
 ### The Problem (that doesn't exist)
 A large no of coin can be hard to total this app use calculation 
@@ -23,70 +20,21 @@ A large no of coin can be hard to total this app use calculation
 [How are you solving it? Keep it ]
 
 ## Technical Details
-### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
+flutter 
+Yolo v8
+
 # Installation
-[commands]
+pip install -r requirements.txt
 
 # Run
-[commands]
+.apk
 
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-https://github.com/Kingacel/premchand/blob/main/Screenshot_20250809_192747.jpg
-main screen to insert image )
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - [Name 1]: [Specific contributions]
